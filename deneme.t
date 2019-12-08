@@ -1,7 +1,7 @@
 Deneme test file
-asdasdsdda
-sdas
-d
-as
-das
-d
+
+4
+554
+54
+4
+54
